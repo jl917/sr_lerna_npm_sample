@@ -27,4 +27,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx lerna exec --concurrency 1 -- npx --no-install semantic-release
+        run: npx lerna exec --concurrency 1 -- npx --no-install semantic-release --tag-format='${version}'

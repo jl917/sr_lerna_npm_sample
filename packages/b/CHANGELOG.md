@@ -1,3 +1,10 @@
+# [@julong/sr_b-v1.0.4](https://github.com/jl917/sr_lerna_npm_sample/compare/@julong/sr_b-v1.0.3...@julong/sr_b-v1.0.4) (2022-01-13)
+
+
+### Bug Fixes
+
+* lerna add test ([3a8bb09](https://github.com/jl917/sr_lerna_npm_sample/commit/3a8bb09c582a67a858299d7326682d681cc0c496))
+
 # [@julong/sr_b-v1.0.3](https://github.com/jl917/sr_lerna_npm_sample/compare/@julong/sr_b-v1.0.2...@julong/sr_b-v1.0.3) (2022-01-13)
 
 

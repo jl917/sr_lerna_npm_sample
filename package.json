@@ -9,7 +9,5 @@
     "semantic-release": "^18.0.1",
     "semantic-release-monorepo": "^7.0.5"
   },
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "dependencies": {}
 }

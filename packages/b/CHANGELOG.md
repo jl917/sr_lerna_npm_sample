@@ -1,3 +1,10 @@
+# [@julong/sr_b-v1.0.2](https://github.com/jl917/sr_lerna_npm_sample/compare/@julong/sr_b-v1.0.1...@julong/sr_b-v1.0.2) (2022-01-13)
+
+
+### Bug Fixes
+
+* package 공개 ([4b531a1](https://github.com/jl917/sr_lerna_npm_sample/commit/4b531a1e0c467354d89efbcaf12ffe3c2f0ec49b))
+
 # [@julong/sr_b-v1.0.1](https://github.com/jl917/sr_lerna_npm_sample/compare/@julong/sr_b-v1.0.0...@julong/sr_b-v1.0.1) (2022-01-13)
 
 

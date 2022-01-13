@@ -1,3 +1,10 @@
+# [@julong/sr_b-v1.0.3](https://github.com/jl917/sr_lerna_npm_sample/compare/@julong/sr_b-v1.0.2...@julong/sr_b-v1.0.3) (2022-01-13)
+
+
+### Bug Fixes
+
+* a, b  lodash add ([aa725a7](https://github.com/jl917/sr_lerna_npm_sample/commit/aa725a705e50b7924b97624ee8ddbbe6a1d865ae))
+
 # [@julong/sr_b-v1.0.2](https://github.com/jl917/sr_lerna_npm_sample/compare/@julong/sr_b-v1.0.1...@julong/sr_b-v1.0.2) (2022-01-13)
 
 

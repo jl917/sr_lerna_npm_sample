@@ -1,3 +1,10 @@
+# [@julong/sr_a-v1.0.6](https://github.com/jl917/sr_lerna_npm_sample/compare/@julong/sr_a-v1.0.5...@julong/sr_a-v1.0.6) (2022-11-12)
+
+
+### Bug Fixes
+
+* changelog title change ([bd8ff2b](https://github.com/jl917/sr_lerna_npm_sample/commit/bd8ff2b00b3aadf1258edfb3791d8a5bcd09ff74))
+
 # [@julong/sr_a-v1.0.5](https://github.com/jl917/sr_lerna_npm_sample/compare/@julong/sr_a-v1.0.4...@julong/sr_a-v1.0.5) (2022-01-13)
 
 
